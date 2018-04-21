@@ -1,0 +1,6 @@
+
+#由于普通用户只能查询到10个页面，即每个链接大概爬200个，可以将下面所有的链接做个列表，就可以免费爬去成千上万个数�?#链接都有规律
+#北京
+https://bj.tianyancha.com/search/os1/
+#重庆
+https://cq.tianyancha.com/search/os1
